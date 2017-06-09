@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="layout_marginTop">16dp</dimen>
+    <dimen name="layout_marginLeft">16dp</dimen>
+    <dimen name="layout_marginRight">16dp</dimen>
+    <dimen name="layout_marginBottom">16dp</dimen>
+    <dimen name="layout_marginStart">16dp</dimen>
+    <dimen name="padding_left">16dp</dimen>
+    <dimen name="title_size">25sp</dimen>
+    <dimen name="question_size">17sp</dimen>
+    <dimen name="answer_size">20sp</dimen>
+    <dimen name="list_item_height">88dp</dimen>
+
+</resources>
